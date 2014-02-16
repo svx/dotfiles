@@ -1,0 +1,8 @@
+Search Plone Docs
+=================
+
+Search developer.plone.org
+
+Based on: https://github.com/jadb/st2-search-cakephp-api
+
+

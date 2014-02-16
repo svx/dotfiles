@@ -1,0 +1,37 @@
+{
+	"auto_complete_delay": 500,
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"file_exclude_patterns":
+	[
+		".*",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true
+}

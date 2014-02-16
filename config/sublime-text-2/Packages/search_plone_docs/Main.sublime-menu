@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "PloneDocs",
+                "mnemonic": "f",
+                "id": "plonedocs",
+                "children":
+                [
+                    {
+                        "command": "plonedocs_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "plonedocs_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

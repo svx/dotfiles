@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "PloneDocs: Search Selection",
+        "command": "plonedocs_search_selection"
+    },
+    {
+        "caption": "PloneDocs: Search from Input",
+        "command": "plonedocs_search_from_input"
+    }
+]
